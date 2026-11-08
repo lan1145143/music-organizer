@@ -1,0 +1,7 @@
+-r requirements.txt
+
+# 测试
+pytest>=8.0
+
+# 打包(PyInstaller)
+pyinstaller>=6.0

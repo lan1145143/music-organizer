@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 虚拟环境
+.venv-build/
+.venv-tmp/
+.venv/
+
+# 运行时用户数据(便携数据目录,首次运行自动生成)
+data/
+
+# 构建产物(PyInstaller)
+packaging/build/
+packaging/dist/
+packaging/*.zip
+
+# 本地草稿
+.scratch/
+
+# 内部文档(不入库,仅本地保留)
+docs/
+
+# IDE / 系统
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
