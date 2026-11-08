@@ -9,10 +9,8 @@
   <img src="https://img.shields.io/badge/platform-Windows%2010%2F11%20x64-0078D6?logo=windows11&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/tests-253%20passed-brightgreen" alt="Tests">
-  <!-- 推送到 GitHub 后可启用动态徽章(把下面的 lan1145143 换成你的用户名):
   <a href="../../releases"><img src="https://img.shields.io/github/v/release/lan1145143/music-organizer?include_prereleases" alt="Release"></a>
   <a href="../../releases"><img src="https://img.shields.io/github/downloads/lan1145143/music-organizer/total" alt="Downloads"></a>
-  -->
 </p>
 
 <p align="center">面向个人音乐库的中文桌面整理工具 —— 整夹归位、散曲改名、附件随行、查重隔离、全程可撤销。</p>
