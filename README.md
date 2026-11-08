@@ -51,11 +51,8 @@
 
 ## 🖼️ 界面预览
 
-<p><img width="100%" src="assets/screenshots/screenshot-main.png" alt="主界面：来源树 + 条目表格 + 底部操作栏"></p>
-<p align="center"><em>主界面：左侧来源树，中间条目列表（勾选即整理），底部输出目录与执行</em></p>
-
-<p><img width="100%" src="assets/screenshots/screenshot-detail.png" alt="详情面板：识别依据与随附文件"></p>
-<p align="center"><em>详情面板：目标元数据可直接修订，识别依据透明可查，随附文件勾选随夹移动</em></p>
+<p><img width="100%" src="assets/screenshots/screenshot-overview.png" alt="主界面：来源树 + 条目列表 + 详情面板 + 底部操作栏"></p>
+<p align="center"><em>主界面：左侧来源树，中间条目列表（勾选即整理），右侧详情面板（识别依据透明可查），底部输出目录与执行</em></p>
 
 ## 🚀 快速开始（普通用户）
 
